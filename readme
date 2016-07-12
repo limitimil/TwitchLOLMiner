@@ -1,0 +1,3 @@
+this project is under construction.
+
+trainDataGen.py is a script which will repeatly download channel preview image from "https://www.twitch.tv/directory/game/League%20of%20Legends/zh" into "train/". This application is supporting the classifier training, though the training result is so far not very well.
